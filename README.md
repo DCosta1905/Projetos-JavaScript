@@ -4,8 +4,8 @@ Bem-vindo ao repositório de projetos JavaScript! Aqui você encontrará uma col
 
 ## Projetos Incluídos
 
-- [Convertor para binário](projeto1/): Projeto que converte o número decimal digitado pelo usuário para um número binário.
-- [Contador de Calorias](projeto2/): Projeto que calcular as calorias diárias que são fornecidas pelo usuário.
+- [Convertor para binário](https://github.com/DCosta1905/Projetos-JavaScript/tree/main/Binary%20Converter): Projeto que converte o número decimal digitado pelo usuário para um número binário.
+- [Contador de Calorias](https://github.com/DCosta1905/Projetos-JavaScript/tree/main/Calorie%20Counter): Projeto que calcular as calorias diárias que são fornecidas pelo usuário.
 - [Formatação de Data](projeto3/): Projeto que formata a data atual, conforme escolha do usuário
 - [Cartões de Jogadores](projeto4/): Projeto que exibe e filtra informações sobre jogadores de futebol
 - [Reprodutor de Músicas](projeto5/): Projeto que reproduz músicas.
